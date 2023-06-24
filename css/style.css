@@ -4,8 +4,6 @@
 }
 
 #heading {
-    width: 1349px;
-    height: 90px;
     color: salmon;
     font-size: 50px;
     text-align: center;
@@ -31,7 +29,7 @@
 
 .dr {
     background: linear-gradient( skyblue, lightgreen);
-    width:33%;
+    width: 434px;
     height: 730px;
     border: 2px solid black;
     border-radius: 10px;
