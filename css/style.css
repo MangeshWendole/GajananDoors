@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#heading {
+    width: 1349px;
+    height: 90px;
+    color: salmon;
+    font-size: 50px;
+    text-align: center;
+}
+.nav{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 34px;
+    color: blueviolet;
+}
+
+.container {
+    background: linear-gradient(skyblue, lightgreen);
+
+}
+.main{
+    display: flex;
+    border: 3px double gray;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.dr {
+    background: linear-gradient( skyblue, lightgreen);
+    width:33%;
+    height: 730px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+    
+
+
+}
